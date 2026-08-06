@@ -1,0 +1,123 @@
+/* ================= AUTH (LOGIN / SIGNUP) ================= */
+.auth-container {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(160deg, #f0a798, #a8535a);
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  overflow-y: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.auth-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 20px 40px;
+  width: 100%;
+  max-width: 420px;
+}
+
+.auth-avatar {
+  width: 140px;
+  height: 140px;
+  object-fit: contain;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.auth-greeting {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.auth-card {
+  background: #fff;
+  border-radius: 25px;
+  width: 100%;
+  padding: 30px 25px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+}
+
+.auth-title {
+  font-size: 24px;
+  color: #a8535a;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.auth-input {
+  width: 100%;
+  border: 1.5px solid #ddd;
+  border-radius: 12px;
+  padding: 13px 15px;
+  margin-bottom: 14px;
+  font-size: 15px;
+  outline: none;
+  transition: border-color 0.2s;
+  box-sizing: border-box;
+}
+
+.auth-input:focus {
+  border-color: #a8535a;
+}
+
+.auth-button {
+  width: 100%;
+  background: #a8535a;
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  padding: 15px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 5px;
+  transition: 0.2s ease;
+}
+
+.auth-button:hover {
+  background: #8f4449;
+}
+
+.auth-button:active {
+  transform: scale(0.97);
+}
+
+.auth-button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.auth-error {
+  color: #c0392b;
+  background: #fdecea;
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 14px;
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+.auth-switch-text {
+  text-align: center;
+  margin-top: 16px;
+  font-size: 14px;
+  color: #555;
+}
+
+.auth-switch-link {
+  color: #a8535a;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.auth-switch-link:hover {
+  text-decoration: underline;
+}

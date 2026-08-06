@@ -1,0 +1,276 @@
+{
+  "zaikamate-room-1778606018464": {
+    "available_ingredients": [],
+    "unavailable_ingredients": [],
+    "suggested_recipes": [],
+    "rejected_recipes": [],
+    "chosen_recipe": null,
+    "current_step": 0,
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hello?",
+        "time": "2026-05-12T17:16:10.421239"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm still here to help with the chicken karahi recipe. Please say next when ready to",
+        "time": "2026-05-12T17:16:16.756285"
+      },
+      {
+        "role": "user",
+        "content": "Can you sing it?",
+        "time": "2026-05-12T17:16:16.855240"
+      },
+      {
+        "role": "assistant",
+        "content": "I only",
+        "time": "2026-05-12T17:16:19.241850"
+      },
+      {
+        "role": "user",
+        "content": "Can you sing a song?",
+        "time": "2026-05-12T17:16:19.359258"
+      },
+      {
+        "role": "assistant",
+        "content": "I only help with cooking. Ask me about recipes or ingredients!",
+        "time": "2026-05-12T17:16:25.348252"
+      },
+      {
+        "role": "user",
+        "content": "Let's make chicken carahe.",
+        "time": "2026-05-12T17:16:29.683050"
+      },
+      {
+        "role": "assistant",
+        "content": "Chicken karahi is a great choice. You've already mentioned you have a chicken. \n\nDo you have onions, garlic, ginger, cumin seeds, coriander powder, turmeric, red chili powder, and garam masala at home?",
+        "time": "2026-05-12T17:16:45.452589"
+      },
+      {
+        "role": "user",
+        "content": "Yes.",
+        "time": "2026-05-12T17:16:47.722685"
+      },
+      {
+        "role": "assistant",
+        "content": "You have all the necessary ingredients for chicken karahi. \n\nLet's start making it. First, chop 1 large onion into small pieces and heat 2 tablespoons of oil in a large pan over medium heat. Say next when ready.",
+        "time": "2026-05-12T17:17:04.143643"
+      },
+      {
+        "role": "user",
+        "content": "Give step two.",
+        "time": "2026-05-12T17:17:07.544565"
+      },
+      {
+        "role": "assistant",
+        "content": "Add 2-3 cloves of minced garlic and 1-inch piece of grated ginger to the pan and saut\u00e9 until fragrant. Say next when ready.",
+        "time": "2026-05-12T17:17:17.360659"
+      },
+      {
+        "role": "user",
+        "content": "Repeat step 1.",
+        "time": "2026-05-12T17:17:20.725965"
+      },
+      {
+        "role": "assistant",
+        "content": "Heat 2 tablespoons of oil in a large pan over medium heat. Say next when ready.",
+        "time": "2026-05-12T17:17:28.024670"
+      },
+      {
+        "role": "user",
+        "content": "Give step seven.",
+        "time": "2026-05-12T17:17:30.819077"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm not sure what step we're on, but I think we're still early in the recipe. We've only done steps 1 and 2 so far. Let's continue. \n\nAdd the chopped chicken to the pan and cook until it's browned on all sides. Say next when",
+        "time": "2026-05-12T17:17:47.757957"
+      },
+      {
+        "role": "user",
+        "content": "Let's make a blend.",
+        "time": "2026-05-12T17:17:47.892511"
+      },
+      {
+        "role": "assistant",
+        "content": "I think you mean a blend of spices for a new dish. What type of dish are you thinking of making?",
+        "time": "2026-05-12T17:17:55.082769"
+      },
+      {
+        "role": "user",
+        "content": "Obl\u00e8 ande",
+        "time": "2026-05-12T17:17:57.536650"
+      },
+      {
+        "role": "assistant",
+        "content": "You mean Omelette ande, a popular Pakistani dish. To make omelette ande, you will need eggs, onions, garlic, ginger, cumin seeds, coriander powder, turmeric, and garam masala.",
+        "time": "2026-05-12T17:18:11.782689"
+      }
+    ],
+    "updated_at": "2026-05-12T17:18:11.782689"
+  },
+  "zaikamate-room-1778606309151": {
+    "available_ingredients": [],
+    "unavailable_ingredients": [],
+    "suggested_recipes": [],
+    "rejected_recipes": [],
+    "chosen_recipe": null,
+    "current_step": 0,
+    "messages": [],
+    "updated_at": "2026-05-12T17:18:34.814620"
+  },
+  "zaikamate_room_1778607703519": {
+    "available_ingredients": [],
+    "unavailable_ingredients": [],
+    "suggested_recipes": [],
+    "rejected_recipes": [],
+    "chosen_recipe": null,
+    "current_step": 0,
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'd be happy to help you with a recipe. What type of dish are you in the mood for, something spicy or something mild?",
+        "time": "2026-05-12T17:42:10.655004"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello, I am ZaikaMate. What do you want to cook today?",
+        "time": "2026-05-12T17:42:10.704487"
+      }
+    ],
+    "updated_at": "2026-05-12T17:42:10.704487"
+  },
+  "zaikamate_room_1778607734103": {
+    "available_ingredients": [],
+    "unavailable_ingredients": [],
+    "suggested_recipes": [],
+    "rejected_recipes": [],
+    "chosen_recipe": null,
+    "current_step": 0,
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'd be happy to help you with a recipe. What type of dish are you in the mood for, something spicy or something mild?",
+        "time": "2026-05-12T17:42:33.880081"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello, I am ZaikaMate. What do you want to cook today?",
+        "time": "2026-05-12T17:42:33.916694"
+      }
+    ],
+    "updated_at": "2026-05-12T17:42:33.916694"
+  },
+  "zaikamate_room_1778668707884": {
+    "available_ingredients": [],
+    "unavailable_ingredients": [],
+    "suggested_recipes": [],
+    "rejected_recipes": [],
+    "chosen_recipe": null,
+    "current_step": 0,
+    "messages": [
+      {
+        "role": "user",
+        "content": "GIFT",
+        "time": "2026-05-13T10:44:42.749818"
+      },
+      {
+        "role": "user",
+        "content": "Give step two.",
+        "time": "2026-05-13T10:44:44.703394"
+      },
+      {
+        "role": "user",
+        "content": "Give step two.",
+        "time": "2026-05-13T10:44:50.902767"
+      },
+      {
+        "role": "user",
+        "content": "No, no, no. What was the question? No, no. We didn't have any questions. We had more questions. So, there was a problem. The internet was a problem. No, no.",
+        "time": "2026-05-13T10:45:06.009432"
+      },
+      {
+        "role": "assistant",
+        "content": "You had asked me to give the next step in making chicken biryani. Let's get",
+        "time": "2026-05-13T10:45:12.234533"
+      },
+      {
+        "role": "user",
+        "content": "or a slow answer.",
+        "time": "2026-05-13T10:45:12.357842"
+      },
+      {
+        "role": "user",
+        "content": "This bar \uc660 accelerated time of level Vedanta",
+        "time": "2026-05-13T10:45:16.992713"
+      },
+      {
+        "role": "user",
+        "content": "Repeat step one Why are you waiting for security detection?",
+        "time": "2026-05-13T10:45:21.859706"
+      },
+      {
+        "role": "assistant",
+        "content": "Rinse",
+        "time": "2026-05-13T10:45:24.502527"
+      },
+      {
+        "role": "user",
+        "content": "She wants to letents of shunnoke she talked about.",
+        "time": "2026-05-13T10:45:32.091014"
+      },
+      {
+        "role": "user",
+        "content": "We will hear you and hear whatever that meaning we can say throughout the 90's. Sorry I love thatIX this video!",
+        "time": "2026-05-13T10:45:36.989257"
+      },
+      {
+        "role": "user",
+        "content": "I love you. What does it mean? Sir, I love you. It's a little bit of a person.  Now we have to talk about background noise as a background noise.",
+        "time": "2026-05-13T10:45:44.710705"
+      },
+      {
+        "role": "assistant",
+        "content": "I only help with cooking. Ask me about recipes or ingredients!",
+        "time": "2026-05-13T10:45:45.002747"
+      },
+      {
+        "role": "user",
+        "content": "dawna",
+        "time": "2026-05-13T10:45:50.192792"
+      },
+      {
+        "role": "user",
+        "content": "When we talk about food, food, food, and food,",
+        "time": "2026-05-13T10:46:07.803808"
+      },
+      {
+        "role": "user",
+        "content": "If you started  You propose to the me by life, and that can still be written according to as of the",
+        "time": "2026-05-13T10:46:18.929132"
+      },
+      {
+        "role": "user",
+        "content": "mate just mate",
+        "time": "2026-05-13T10:46:20.201416"
+      },
+      {
+        "role": "user",
+        "content": "What do you think?",
+        "time": "2026-05-13T10:46:30.979330"
+      },
+      {
+        "role": "user",
+        "content": "I'm the I detain the",
+        "time": "2026-05-13T10:46:36.365134"
+      },
+      {
+        "role": "user",
+        "content": "All, are you? Yes, I tell you Yes, I wish you Okay, shine Annabeth",
+        "time": "2026-05-13T10:46:36.935836"
+      }
+    ],
+    "updated_at": "2026-05-13T10:46:36.935836"
+  }
+}

@@ -1,0 +1,25 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Zip files
+*.zip
+
+# Executables
+*.exe
+
+# Expo
+.expo/
+
+# Logs
+*.log
