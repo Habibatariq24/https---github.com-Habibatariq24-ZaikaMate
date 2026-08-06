@@ -13,6 +13,7 @@
     <td align="center"><b>Main Screen</b></td>
   </tr>
   <tr>
+     <td><img src="zaikamate.png" width="220"/></td>
     <td><img src="homescreen.png" width="220"/></td>
     <td><img src="login.png" width="220"/></td>
     <td><img src="mainscreen.jpeg" width="220"/></td>
