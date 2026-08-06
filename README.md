@@ -56,7 +56,7 @@ Users can search for recipes using available ingredients, receive cooking guidan
 
 | Login | Home | Main Screen |
 |:------:|:----:|:-----------:|
-| <img src="login.png" width="250"/> | <img src="mainscreen.png" width="250"/> | <img src="homescreen.jpeg" width="250"/> |
+| <img src="login.png" width="250"/> | <img src="mainscreen.jpeg" width="250"/> | <img src="homescreen.png" width="250"/> |
 
 | Recipes | Recipe Details | Cooking Steps |
 |:------:|:--------------:|:-------------:|
