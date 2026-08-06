@@ -52,29 +52,19 @@ Users can search for recipes using available ingredients, receive cooking guidan
 
 # 📸 Screenshots
 
-## Home & Authentication
+## 🚀 User Journey
 
-| Home | Login | Main Screen |
-|------|------|------|
-| <img src="homescreen.png" width="260"/> | <img src="login.png" width="260"/> | <img src="mainscreen.jpeg" width="260"/> |
-
----
-
-## Recipe Experience
+| Login | Home | Main Screen |
+|:------:|:----:|:-----------:|
+| <img src="login.png" width="250"/> | <img src="homescreen.png" width="250"/> | <img src="mainscreen.jpeg" width="250"/> |
 
 | Recipes | Recipe Details | Cooking Steps |
-|------|------|------|
-| <img src="recipes.png" width="260"/> | <img src="recipefetch.png" width="260"/> | <img src="recipesteps.png" width="260"/> |
+|:------:|:--------------:|:-------------:|
+| <img src="recipes.png" width="250"/> | <img src="recipefetch.png" width="250"/> | <img src="recipesteps.png" width="250"/> |
 
----
-
-## AI Assistant
-
-| Reviews & Comments | AI Cooking Avatar |
-|------|------|
-| <img src="review and comments.png" width="320"/> | <img src="avatarscreen.jpeg" width="320"/> |
-
----
+| AI Cooking Avatar | Reviews & Comments |
+|:----------------:|:------------------:|
+| <img src="avatarscreen.jpeg" width="300"/> | <img src="review and comments.png" width="300"/> |
 
 # 🛠 Tech Stack
 
