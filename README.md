@@ -54,9 +54,9 @@ Users can search for recipes using available ingredients, receive cooking guidan
 
 ## 🚀 User Journey
 
-| Login | Home | Main Screen |
+| Home | Login | Main Screen |
 |:------:|:----:|:-----------:|
-| <img src="login.png" width="250"/> | <img src="mainscreen.jpeg" width="250"/> | <img src="homescreen.png" width="250"/> |
+| <img src="mainscreen.jpeg" width="250"/> | <img src="login.png" width="250"/> | <img src="homescreen.png" width="250"/> |
 
 | Recipes | Recipe Details | Cooking Steps |
 |:------:|:--------------:|:-------------:|
