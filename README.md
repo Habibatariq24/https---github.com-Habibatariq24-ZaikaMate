@@ -1,93 +1,151 @@
-# 🍳 ZaikaMate — AI-Powered Cooking Assistant
+# 🍳 ZaikaMate — AI-Powered Interactive Cooking Assistant
 
-> A smart recipe discovery web app featuring a **3D animated avatar**, real-time voice interaction, and personalized cooking guidance — built as a Final Year Project at FAST NUCES, Lahore.
+<p align="center">
+  <img src="main.jpeg" alt="ZaikaMate Logo" width="220"/>
+</p>
 
----
+<p align="center">
+  <b>Cook Smarter with AI</b><br>
+  An AI-powered interactive cooking assistant that recommends Pakistani recipes, guides users through voice-based cooking instructions, and features an animated AI chef avatar.
+</p>
 
-## 📸 Screenshots
+<p align="center">
 
-<table>
-  <tr>
-     <td align="center"><b>Main</b></td>
-    <td align="center"><b>Home</b></td>
-    <td align="center"><b>Login</b></td>
-    <td align="center"><b>Main Screen</b></td>
-  </tr>
-  <tr>
-     <td><img src="main.png" width="220"/></td>
-    <td><img src="homescreen.png" width="220"/></td>
-    <td><img src="login.png" width="220"/></td>
-    <td><img src="mainscreen.jpeg" width="220"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Recipes</b></td>
-    <td align="center"><b>Recipe Detail</b></td>
-    <td align="center"><b>Chicken Karhai</b></td>
-  </tr>
-  <tr>
-    <td><img src="recipes.png" width="220"/></td>
-    <td><img src="recipefetch.png" width="220"/></td>
-    <td><img src="recipeofchickenkarhai.png" width="220"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Recipe Steps</b></td>
-    <td align="center"><b>Reviews & Comments</b></td>
-    <td align="center"><b>Avatar Screen</b></td>
-  </tr>
-  <tr>
-    <td><img src="recipesteps.png" width="220"/></td>
-    <td><img src="review%20and%20comments.png" width="220"/></td>
-    <td><img src="avatarscreen.jpeg" width="220"/></td>
-  </tr>
-</table>
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-green?logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Vite](https://img.shields.io/badge/Vite-5-purple?logo=vite)
+![Three.js](https://img.shields.io/badge/3D-Three.js-black?logo=three.js)
+![LiveKit](https://img.shields.io/badge/Voice-LiveKit-orange)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+</p>
 
 ---
 
-## ✨ Features
+# 📖 About
 
-- 🤖 **3D VRM Avatar** — Animated cooking assistant with hat & spoon props built with Three.js and React Three Fiber
-- 🎙️ **Real-time Voice** — LiveKit audio integration with ElevenLabs TTS-triggered lip-sync animations
-- 🔍 **Recipe Discovery** — Search and browse recipes with detailed step-by-step instructions
-- 👤 **Authentication** — Login / Signup with custom state-machine navigation pattern
-- ⭐ **Reviews & Comments** — Rate and comment on recipes
-- 🐍 **FastAPI Backend** — Python backend serving recipe data and AI features
-- ⚡ **Vite + React** — Fast, modern frontend
+**ZaikaMate** is an AI-powered interactive cooking assistant developed as our **Final Year Project** at **FAST National University of Computer and Emerging Sciences (FAST NUCES), Lahore**.
+
+Instead of simply displaying recipes, ZaikaMate provides an engaging cooking experience by combining **Artificial Intelligence, Speech Technologies, NLP, and an Interactive 3D Avatar**.
+
+Users can search for recipes using available ingredients, receive cooking guidance through an AI chef, and follow voice-assisted step-by-step instructions.
 
 ---
 
-## 🗂️ Project Structure
+# ✨ Features
 
-```
-fyp-web/
-├── src/                          # React frontend source
-│   ├── components/               # Reusable UI components
-│   ├── pages/                    # Page-level components
-│   └── assets/                   # Images, models, fonts
-├── public/                       # Static assets
-├── backend/                      # LiveKit agent backend
-│   ├── agent.py                  # LiveKit voice agent
-│   └── main.py                   # Backend entry point
-├── recipe_fastapi_backend/       # FastAPI recipe backend
-│   └── main.py                   # FastAPI app entry point
-├── index.html
-├── vite.config.js
+- 🤖 AI-powered recipe recommendations
+- 🥘 Ingredient-based recipe search
+- 🍛 Pakistani recipe collection
+- 🎙️ Voice-guided cooking instructions
+- 👨‍🍳 Interactive AI Chef Avatar
+- 🔊 Text-to-Speech using ElevenLabs
+- 🎤 Speech interaction through LiveKit
+- ⭐ Recipe ratings and reviews
+- 💬 Comments and feedback system
+- 🔐 Secure Login & Signup
+- ⚡ Fast React + Vite frontend
+- 🐍 FastAPI backend
+
+---
+
+# 📸 Screenshots
+
+## Home & Authentication
+
+| Home | Login | Main Screen |
+|------|------|------|
+| <img src="homescreen.png" width="260"/> | <img src="login.png" width="260"/> | <img src="mainscreen.jpeg" width="260"/> |
+
+---
+
+## Recipe Experience
+
+| Recipes | Recipe Details | Cooking Steps |
+|------|------|------|
+| <img src="recipes.png" width="260"/> | <img src="recipefetch.png" width="260"/> | <img src="recipesteps.png" width="260"/> |
+
+---
+
+## AI Assistant
+
+| Reviews & Comments | AI Cooking Avatar |
+|------|------|
+| <img src="review and comments.png" width="320"/> | <img src="avatarscreen.jpeg" width="320"/> |
+
+---
+
+# 🛠 Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Frontend | React, Vite, JavaScript |
+| Backend | FastAPI, Python |
+| AI & NLP | OpenAI API, LangChain |
+| Voice | LiveKit, ElevenLabs |
+| 3D Avatar | Three.js, React Three Fiber, VRM |
+| Authentication | JWT |
+| Styling | CSS |
+| Development | VS Code, Git, GitHub |
+
+---
+
+# 📂 Project Structure
+
+```text
+ZaikaMate
+│
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── hooks/
+│
+├── public/
+│
+├── backend/
+│   ├── agent.py
+│   └── main.py
+│
+├── recipe_fastapi_backend/
+│   ├── routes/
+│   ├── models/
+│   ├── database/
+│   └── main.py
+│
 ├── package.json
-└── .env                          # (not committed) API keys
+├── vite.config.js
+├── README.md
+└── .env
 ```
 
 ---
 
-## 🚀 Getting Started
+# 🏗 System Architecture
 
-### Prerequisites
-
-- Node.js v18+
-- Python 3.10+
-- LiveKit server (included as `livekit-server.exe`)
+```text
+                    User
+                      │
+                      ▼
+             React + Vite Frontend
+                      │
+        ┌─────────────┼─────────────┐
+        ▼             ▼             ▼
+ Authentication   FastAPI API   LiveKit Voice
+        │             │             │
+        ▼             ▼             ▼
+     User Data    Recipe Engine   ElevenLabs
+                      │
+                      ▼
+              Interactive AI Avatar
+```
 
 ---
 
-### 1️⃣ Clone the Repository
+# 🚀 Getting Started
+
+## 1. Clone Repository
 
 ```bash
 git clone https://github.com/Habibatariq24/ZaikaMate.git
@@ -96,100 +154,140 @@ cd ZaikaMate
 
 ---
 
-### 2️⃣ Frontend — React + Vite
+## 2. Install Frontend Dependencies
 
 ```bash
 npm install
+```
+
+Run the frontend:
+
+```bash
 npm run dev
 ```
 
-Runs at: `http://localhost:5173`
+Application runs at:
+
+```
+http://localhost:5173
+```
 
 ---
 
-### 3️⃣ Recipe Backend — FastAPI
+## 3. Start FastAPI Backend
 
 ```bash
 cd recipe_fastapi_backend
+
 pip install -r requirements.txt
+
 python main.py
 ```
 
 ---
 
-### 4️⃣ LiveKit Agent Backend
+## 4. Run LiveKit Backend
 
 ```bash
 cd backend
+
 pip install -r requirements.txt
+
 python main.py
 ```
 
-Or run in dev mode:
+or
 
 ```bash
-cd backend
 python agent.py dev
 ```
 
 ---
 
-### 5️⃣ LiveKit Server (Windows)
+## 5. Start LiveKit Server
 
 ```bash
-./livekit-server.exe --dev
+livekit-server --dev
 ```
 
 ---
 
-## 🔑 Environment Variables
+# 🔑 Environment Variables
 
-Create a `.env` file in the project root and add the following:
+Create a `.env` file inside the project root.
 
 ```env
-VITE_LIVEKIT_URL=ws://localhost:7880
-LIVEKIT_API_KEY=your_livekit_api_key
-LIVEKIT_API_SECRET=your_livekit_api_secret
-ELEVEN_LABS_API_KEY=your_elevenlabs_api_key
+VITE_LIVEKIT_URL=
+LIVEKIT_API_KEY=
+LIVEKIT_API_SECRET=
+ELEVENLABS_API_KEY=
+OPENAI_API_KEY=
 ```
 
-> ⚠️ Never commit your `.env` file to GitHub! It is already listed in `.gitignore`.
+> ⚠️ Never upload your `.env` file to GitHub.
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 How It Works
 
-| Layer | Technology |
-|-------|------------|
-| Frontend | React, Vite, JavaScript |
-| 3D Avatar | Three.js, React Three Fiber, @pixiv/three-vrm |
-| Voice & Audio | LiveKit, ElevenLabs TTS |
-| Animation | VRM Spring Bone, custom stirring animations |
-| Backend | FastAPI (Python) |
-| Auth | JWT |
-| Dev Tools | ESLint, Vite HMR |
+1. Users sign up or log in to the application.
+2. Enter the ingredients available at home.
+3. ZaikaMate recommends suitable Pakistani recipes and highlights any missing ingredients.
+4. Users can explore recipe details, ingredients, and cooking instructions.
+5. The AI cooking avatar provides interactive voice guidance while cooking.
+6. Users can rate recipes, leave reviews, and share feedback.
 
 ---
 
-## 🧠 How It Works
+# 🚀 Future Improvements
 
-1. User opens the app and logs in via the **Login/Signup** screen
-2. On the **Main Screen**, a 3D VRM avatar greets the user wearing a chef hat and holding a spoon
-3. User can **search for recipes** — results are fetched from the FastAPI backend
-4. Clicking a recipe shows **step-by-step instructions** with ingredients
-5. The avatar **speaks instructions aloud** via ElevenLabs TTS through LiveKit
-6. Avatar **animates (stirs)** in sync with TTS playback
-7. Users can leave **reviews and comments** on recipes
-
----
-
-## 👩‍💻 Author
-
-**Habiba Tariq**  
-Final Year Data Science Student — FAST NUCES, Lahore
+- 📱 Android & iOS mobile application
+- 🌍 Multi-language support
+- 📷 Ingredient recognition using computer vision
+- ❤️ Personalized recipe recommendations
+- 🥗 Nutritional information
+- 🛒 Grocery shopping integration
+- 📅 Meal planning
+- 🍽️ AI meal suggestions based on dietary preferences
 
 ---
 
-## 📄 License
+# 👩‍💻 Authors
 
-This project is licensed under the terms of the included LICENSE file.
+### Habiba Tariq
+BS Data Science  
+FAST National University of Computer & Emerging Sciences (FAST NUCES), Lahore
+
+GitHub: https://github.com/Habibatariq24
+
+---
+
+### Amna Habib
+
+BS Data Science  
+FAST National University of Computer & Emerging Sciences (FAST NUCES), Lahore
+
+---
+
+### Asma Fatima
+
+BS Data Science  
+FAST National University of Computer & Emerging Sciences (FAST NUCES), Lahore
+
+---
+
+# 🙏 Acknowledgements
+
+Special thanks to our project supervisor and the faculty of **FAST NUCES, Lahore** for their continuous guidance and support throughout the development of ZaikaMate.
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+<p align="center">
+Made with ❤️ using AI, React, FastAPI, LiveKit, and Three.js
+</p>
